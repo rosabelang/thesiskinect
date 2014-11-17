@@ -1,0 +1,80 @@
+Character 1
+
+Scene 1:
+
+Flow #1:
+Narrator: In a small town called Neustadt there lived a boy named Emil. Summer is coming and his mother decided to let Emil spend his vacation on his
+grandmother's house in Berlin. 
+That afternoon was the day that Emil rides a train to Berlin, so his mother prepared a delicious lunch.
+
+Mom: Emil, come here and sit down. You need to eat before preparing for your trip, you will be leaving this afternoon.
+
+Emil: Yes mother.
+
+Flow #2:
+
+(Scene: Emil is in the kitchen and he needs to eat lunch)
+(Requirements: Chair -> sit down)
+(Requirements: Spoon and Fork -> pick up)
+(Requirements: Select food on plate and eat it)
+
+Flow #3:
+
+Mom: Did you like the food that I have prepared for you my dear?
+
+Emil: Yes mother, it was delicious!
+
+Mom: Well I'm glad you liked it, don't forget to wash the dishes. I'll be waiting for you in your room. After washing the dishes, follow me 
+and we'll prepare for your trip together.
+
+Flow #4:
+
+(Scene: Emil needs to wash the dishes)
+(Requirements: Pick up utensils)
+(Requirement: Select sink and wash dishes)
+
+(HELP: You need to follow your mother to your room)
+
+Scene 2:
+
+Flow #1:
+
+Narrator: Inside Emil's room,there was his mother waiting, ready to instruct him on what to bring to his trip.
+Mom: I'll be giving you 170 marks. I placed it inside your drawer, open that and get the money.
+
+Flow #2:
+
+(Requirement: Emil needs to complete the 170 marks)
+(Requirement; Pick the 100 Mark bill)
+(Requirement: Pick the 50 Mark bill)
+(Requirement: Pick the 20 Mark bill)
+
+Flow #3:
+
+Mom: So Emil, here's 170 marks, give 140 to grandma. Tell her that I hope she's doing fine and give her a kiss for me. 
+The other 30 marks is for you, you'll need 10 marks for your return fare and keep the remaining money in your pocket in case anything turns out.
+I'll put it inside the Envelope. Don't lose it.
+
+Flow #4:
+
+(Requirement: Add to the inventory)
+
+Flow #5:
+
+Emil: Don't worry, I'll guard it with my life.
+
+Mom: Where would you better put it.
+
+Emil: In my jacket, in the inside pocket.
+
+Mom: Well, don't go telling people in the train that you have all these money on you.
+
+Emil: I won't mother.
+
+Mom: I have packed your clothes already. And here's a list of things that you might need for your trip.
+(Display list of things: Pen, Paper, Flowers, Pin)
+(Requirement: Add the things on the list to the inventory)
+
+Narrator: Emil's father has been long gone, which made earning money and raising a child difficult for Mrs. Teschbein. But she worked hard to give Emil his
+needs. She had turned one of their rooms into a hairdresser's and spent her days trimming, washing and sitting. But these hardships was all worth it, because
+Emil was always the top of the class at the end of the term.
